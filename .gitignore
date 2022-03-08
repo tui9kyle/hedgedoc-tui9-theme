@@ -56,8 +56,9 @@ config.json
 # ignore webpack build
 public/build
 public/views/build
-
+public/uploads
 public/uploads/*
-!public/uploads/.gitkeep
+
 
 site/
+vendor/
